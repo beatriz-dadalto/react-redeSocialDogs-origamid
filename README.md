@@ -7,3 +7,9 @@
 5. `npm run start`
 
 - access on your browser: http://localhost:3000
+
+<br>
+
+<img src="https://github.com/beatriz-dadalto/react-redeSocialDogs-origamid/blob/main/demo-image1.jpg" width="350px" >
+<br>
+<img src="https://github.com/beatriz-dadalto/react-redeSocialDogs-origamid/blob/main/demo-image2.jpg" width="350px" >
